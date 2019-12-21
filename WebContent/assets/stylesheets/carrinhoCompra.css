@@ -1,0 +1,14 @@
+/* ######### carrinho de compra ######## */
+
+.table-jogos-col-valor {
+	width: 150px;
+}
+
+.table-jogos-col-quantidade {
+	width: 100px;
+}
+
+.label-preco {
+	color: red;
+	font-size: 22px;
+}
